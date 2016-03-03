@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./silvae01baehgoog_0024.png"; bbox 0 0 2517 3925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 158 1389 1029 1787">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 158 1389 1029 1787">
+     <span class='ocr_line' id='line_1_1' title="bbox 300 1389 889 1488; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 300 1391 353 1488; x_wconf 93' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 380 1390 646 1487; x_wconf 85' lang='lat' dir='ltr'><strong>PAPINII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 672 1389 889 1488; x_wconf 80' lang='lat' dir='ltr'>STATII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 158 1666 1029 1787; baseline -0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 158 1667 199 1786; x_wconf 80' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_5' title='bbox 262 1666 296 1785; x_wconf 89' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_6' title='bbox 356 1668 408 1787; x_wconf 89' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_7' title='bbox 468 1666 533 1787; x_wconf 92' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_8' title='bbox 593 1668 657 1787; x_wconf 78' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 717 1666 775 1785; x_wconf 86' lang='lat' dir='ltr'><strong>R</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 835 1666 899 1785; x_wconf 93' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_11' title='bbox 958 1666 1029 1786; x_wconf 88' lang='lat' dir='ltr'>M</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 427 1963 764 2049">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 427 1963 764 2049">
+     <span class='ocr_line' id='line_1_3' title="bbox 427 1963 764 2049; baseline -0.012 0"><span class='ocrx_word' id='word_1_12' title='bbox 427 1963 764 2049; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRIV.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1264 3925">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1264 3925">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1264 3925; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1264 3925; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
